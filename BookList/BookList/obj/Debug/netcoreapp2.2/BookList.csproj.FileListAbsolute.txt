@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CSE686\BookList\BookList\bin\Debug\netcoreapp2.2\BookList.deps.json
+C:\Users\User\Documents\CSE686\BookList\BookList\bin\Debug\netcoreapp2.2\BookList.runtimeconfig.json
+C:\Users\User\Documents\CSE686\BookList\BookList\bin\Debug\netcoreapp2.2\BookList.runtimeconfig.dev.json
+C:\Users\User\Documents\CSE686\BookList\BookList\bin\Debug\netcoreapp2.2\BookList.dll
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.RazorAssemblyInfo.cache
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.RazorAssemblyInfo.cs
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.AssemblyInfo.cs
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\CSE686\BookList\BookList\bin\Debug\netcoreapp2.2\BookList.pdb
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.dll
+C:\Users\User\Documents\CSE686\BookList\BookList\obj\Debug\netcoreapp2.2\BookList.pdb
