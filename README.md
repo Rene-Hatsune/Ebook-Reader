@@ -1,2 +1,4 @@
 # Ebook-Reader
-Internet Programming Final Project
+includes several labs and weekly homeworks
+
+## Internet Programming Final Project
